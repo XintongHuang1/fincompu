@@ -1,11 +1,12 @@
-
 ## Environment
 
 Python 3.6.5 & Tensorflow > 1.3
 
 ## Data
 
-All data, including data collection and relation production procedure are in the data folder
+All data, including data collection and relation production procedure are uploaded here:
+链接：https://pan.baidu.com/s/17dIzlqUNrSzF5Zt6CLHGDg?pwd=ints 
+提取码：ints
 
 ### Sequential Data
 
